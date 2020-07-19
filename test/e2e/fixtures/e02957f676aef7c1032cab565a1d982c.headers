@@ -1,7 +1,7 @@
 {
   "statusCode": 200,
   "headers": {
-    "date": "Mon, 15 Jun 2020 13:02:36 GMT",
+    "date": "Sun, 19 Jul 2020 17:24:53 GMT",
     "content-type": "application/json; charset=utf-8",
     "content-length": "916",
     "connection": "close",
@@ -9,7 +9,7 @@
     "vary": "Accept-Encoding"
   },
   "url": "https://capmetro.hafas.cloud/bin/mgate.exe",
-  "time": 504,
+  "time": 514,
   "request": {
     "method": "POST",
     "headers": {
@@ -23,7 +23,7 @@
         "application/json"
       ],
       "user-agent": [
-        "public-tran975d42052426sport/hafas-client:test"
+        "public-transport/hafas-client:td33b474a2d4dest"
       ],
       "Content-Length": [
         "274"

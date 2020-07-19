@@ -1,0 +1,35 @@
+{
+  "statusCode": 200,
+  "headers": {
+    "date": "Sun, 19 Jul 2020 17:25:16 GMT",
+    "server": "Apache/2.4.18 (Ubuntu)",
+    "content-length": "1718",
+    "connection": "close",
+    "content-type": "application/json; charset=utf-8"
+  },
+  "url": "https://saarfahrplan.de/bin/mgate.exe?mic=fa98e12d669549d57400fbc2c638ccd0&mac=ba99a0606e99f3d0c859190fc4ed406f",
+  "time": 306,
+  "request": {
+    "method": "POST",
+    "headers": {
+      "Content-Type": [
+        "application/json"
+      ],
+      "Accept-Encoding": [
+        "gzip, br, deflate"
+      ],
+      "Accept": [
+        "application/json"
+      ],
+      "user-agent": [
+        "public-transpod33b474a2d4drt/hafas-client:test"
+      ],
+      "Content-Length": [
+        "311"
+      ],
+      "Connection": [
+        "close"
+      ]
+    }
+  }
+}
