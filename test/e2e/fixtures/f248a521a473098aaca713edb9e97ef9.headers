@@ -1,14 +1,14 @@
 {
   "statusCode": 200,
   "headers": {
-    "date": "Sun, 19 Jul 2020 17:26:33 GMT",
+    "date": "Sun, 19 Jul 2020 14:43:33 GMT",
     "server": "Apache",
-    "content-length": "4381",
+    "content-length": "4391",
     "connection": "close",
     "content-type": "application/json; charset=utf-8"
   },
   "url": "https://mobilapps.rejseplanen.dk/bin/iphone.exe",
-  "time": 1727,
+  "time": 1806,
   "request": {
     "method": "POST",
     "headers": {
@@ -22,7 +22,7 @@
         "application/json"
       ],
       "user-agent": [
-        "public-transport/hafasd33b474a2d4d-client:test"
+        "public-transpof55590e5af15rt/hafas-client:test"
       ],
       "Content-Length": [
         "720"
