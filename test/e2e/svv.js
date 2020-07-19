@@ -31,7 +31,7 @@ const sam = '455086100'
 const volksgarten = '455082100'
 const zillnerstr2 = {
 	type: 'location',
-	id: '980133005',
+	id: '980133209',
 	address: 'Zillnerstraße 2, 5020 Salzburg',
 	latitude: 47.801434, longitude: 13.031006,
 }

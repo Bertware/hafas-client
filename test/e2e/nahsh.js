@@ -80,11 +80,12 @@ test('journeys – Kiel Hbf to Flensburg', async (t) => {
 		stopovers: true
 	})
 
+	const kaistr = '9049113'
 	await testJourneysStationToStation({
 		test: t,
 		res,
 		validate,
-		fromId: kielHbf,
+		fromIds: [kielHbf, kaistr],
 		toId: flensburg
 	})
 
